@@ -3,6 +3,9 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.aulalghifary_arch.twa",
-        "sha256_cert_fingerprints": ["DD:C6:CC:1F:05:D9:07:4D:5C:52:BA:CF:2D:BB:03:21:A8:D3:E9:7B:4F:B5:91:72:20:84:21:87:33:46:A9:4D"]
+        "sha256_cert_fingerprints": [
+          "DD:C6:CC:1F:05:D9:07:4D:5C:52:BA:CF:2D:BB:03:21:A8:D3:E9:7B:4F:B5:91:72:20:84:21:87:33:46:A9:4D",
+          "48:B4:7A:97:2C:22:8F:1D:41:86:BE:CD:29:D7:18:A1:B9:6B:46:86:6F:95:CF:E6:66:8B:BA:61:B1:9A:6F:B6"
+        ]
       }
     }]
